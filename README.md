@@ -3,6 +3,7 @@
 Технологический процесс:
 
 Когда добытая руда проходит первичную обработку, получается дроблёная смесь. Её отправляют на флотацию (обогащение) и двухэтапную очистку.
+
 ![image](https://github.com/deniskriukov/predictions-of-the-recovery-coefficient-of-gold-from-ore/assets/113203842/d9d07103-3784-4da3-bd60-e86a5dffbc15)
 
 Стадии:
