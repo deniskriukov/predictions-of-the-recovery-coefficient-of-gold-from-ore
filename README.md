@@ -1,5 +1,3 @@
-![image](https://github.com/deniskriukov/predictions-of-the-recovery-coefficient-of-gold-from-ore/assets/113203842/109d586c-fecb-4bf1-9db1-ac75027dd5a1)# predictions-of-the-recovery-coefficient-of-gold-from-ore
-
 Технологический процесс:
 
 Когда добытая руда проходит первичную обработку, получается дроблёная смесь. Её отправляют на флотацию (обогащение) и двухэтапную очистку.
